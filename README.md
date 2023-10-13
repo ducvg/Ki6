@@ -1,2 +1,1 @@
-# Ki6
-OJT
+Báo cáo quá trình các tuần 
