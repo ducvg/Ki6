@@ -6,15 +6,18 @@ IDE: Intelij Community 2023
 Database: NoSQL MongoDB  
 Java Springboot  
 
-## Demo
-MongoDB database: DemoNoSQL.User (Model User)
-![Screenshot 2023-10-24 142240](https://github.com/ducvg/Ki6/assets/117010800/12201c47-163e-4fe8-96ef-c91cc16ea9ba)
-(*) DemoNoSQL.dbSequence có chức năng auto-increment id cho User mỗi lần insert
 
+
+## Demo
 Connect database, applications.properties:  
     spring.data.mongodb.host=localhost  
     spring.data.mongodb.port=27017  
     spring.data.mongodb.database=DemoNoSQL  
+
+
+MongoDB database: DemoNoSQL.User (Model User)
+![Screenshot 2023-10-24 142240](https://github.com/ducvg/Ki6/assets/117010800/12201c47-163e-4fe8-96ef-c91cc16ea9ba)
+(*) DemoNoSQL.dbSequence có chức năng auto-increment id cho User mỗi lần insert
 
 Login page
 ![image](https://github.com/ducvg/Ki6/assets/117010800/017af623-2f27-43f9-9266-3422b171ab78)
