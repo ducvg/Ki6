@@ -21,3 +21,6 @@ Login page
 
 Register Page
 ![image](https://github.com/ducvg/Ki6/assets/117010800/261fa318-879e-49d4-a207-a0f49a77029c)
+
+Home Page với các chức năng Xóa và chỉnh sửa User
+![image](https://github.com/ducvg/Ki6/assets/117010800/0c0b5bba-dfb3-4a58-951f-7a9956503761)
