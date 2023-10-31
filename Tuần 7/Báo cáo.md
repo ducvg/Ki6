@@ -8,10 +8,9 @@ Java Springboot
 
 ## Demo
 Connect database, applications.properties:  
-spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe
-spring.datasource.username=sa
-spring.datasource.password=123
-
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe <br />
+spring.datasource.username=sa <br />
+spring.datasource.password=123 <br />
 
 MongoDB database: DemoNoSQL.User (Model User)
 ![Screenshot 2023-10-24 142240](https://github.com/ducvg/Ki6/assets/117010800/12201c47-163e-4fe8-96ef-c91cc16ea9ba)
