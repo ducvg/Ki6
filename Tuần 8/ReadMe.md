@@ -17,7 +17,7 @@ Basic demonstration of Spring API in week 5 demo website
 ![image](https://github.com/ducvg/Ki6/assets/117010800/68f527a1-f27d-443b-a907-bd4447a480d5)
 
 ### Update user information:  PUT /api/edit/update/{id}
-From previous /api/detail/2, to: <br/>
+From previous /api/detail/2, to:  <br>
 ![image](https://github.com/ducvg/Ki6/assets/117010800/237d6cb4-4859-4ccf-aaff-5d326e2dbdc2)
 ![image](https://github.com/ducvg/Ki6/assets/117010800/14040d91-059e-4853-9afa-60f5c41da94e)
 
